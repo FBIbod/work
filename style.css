@@ -1,0 +1,25 @@
+.day{
+    background-color: #37d8e6;
+}
+#ord{
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    margin: auto;
+    position:absolute;
+    top:0;
+    left: 0;
+    bottom:0;
+    right: 0;
+    padding: 20px;
+    
+}
+    
+.sun{ 
+    background-color: #ffdd30;
+    border: 10px solid #f1c40f;
+    }
+
+.sun:hover{
+    border:20px solid#f1c40f;
+}
